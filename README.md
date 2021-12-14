@@ -1,1 +1,1 @@
-#JAVA  GUI Tic-tac-toe-
+#  JAVA  Tic-tac-toe-
